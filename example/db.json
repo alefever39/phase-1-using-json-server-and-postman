@@ -9,6 +9,18 @@
       "id": 2,
       "title": "Second Article",
       "content": "This is also an example."
+    },
+    {
+      "notTitle": "A different article",
+      "place": "This is NOT an example!",
+      "id": 3
+    }
+  ],
+  "pictures": [
+    {
+      "firstOne": "This would be the first picture",
+      "secondOne": "this is the second picture",
+      "id": 1
     }
   ]
 }
